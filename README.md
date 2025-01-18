@@ -1,5 +1,3 @@
-# README for CRM Sales and Data Cleaning Project
-
 ## Overview
 This repository encompasses the **CRM Sales and Data Cleaning Project**, including:
 1. **Data Cleaning and Preprocessing Notebook**: Jupyter Notebook designed for cleaning and preparing CRM data.
